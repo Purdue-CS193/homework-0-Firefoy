@@ -3,5 +3,5 @@
 ### Assignment: What do you like about this class?
 
 - Ability to experiment
-- Awesome environment
+- Awesome environment 
 - Ed Discussion is useful 
