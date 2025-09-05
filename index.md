@@ -1,4 +1,4 @@
-# Welcome to the awesome page from Adarsh Narayanan
+# Adarsh Narayanan's first CS193 homework!
 ## Assignment for CS-193
 ### Assignment: What do you like about this class?
 
